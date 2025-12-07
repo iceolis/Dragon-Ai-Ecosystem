@@ -14,7 +14,7 @@ Deep     → [████████████] High-Level: Hard-Code
 
 ## Description
 
-**Three layers. One unified infrastructure. AI systems operating across every layer of the internet.**
+**🐉 Three orchestration levels. Surface Web (No-Code) → Dark Web (Onion Chain) → Deep Web (Hard-Code). One unified AI ecosystem that operates across every layer of the internet. The infrastructure map that acknowledges reality. ⚔️**
 
 ---
 
@@ -325,8 +325,9 @@ The kind that operates across ALL layers simultaneously.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](YOUR_LINKTREE_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iceolis)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLLxEVn5EWzU91fLLtxmAQ5aFw8nSAZtFo&si=xYMYvsUZ-DYvQJ3C)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Rahulnetlord)
 
 </div>
 
